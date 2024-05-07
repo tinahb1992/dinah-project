@@ -71,7 +71,8 @@ main {
 }
 
 .weather-icon {
-  font-size: 35px;
+  width: 88px;
+  height: 88px;
 }
 
 .weather-unit {
