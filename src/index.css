@@ -76,13 +76,13 @@ main {
 }
 
 .weather-unit {
-  font-size: 40px;
+  font-size: 30px;
 }
 
 .weather-forecast {
-  margin-top: 20px;
-  display: inline-block;
+  margin: 0 auto;
   text-align: center;
+  display: inline-block;
 }
 
 .weather-forecast-date {
@@ -95,4 +95,5 @@ main {
 
 .weather-forecast-temperature {
   font-size: 15px;
+  color: #f08080;
 }
